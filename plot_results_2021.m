@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% plot_results.m - October,15 2002 by Nima Rahbar          %
+% plot_results.m         %
 % last modified:  18,2021                                  %
 % author: Yixiao Zhang - yzhang34@wpi.edu                  %
 % plot results and b.c. for trusses,beams, heat conduction %
